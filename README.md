@@ -3,3 +3,4 @@
 - equation de belleman
 - décision markovien
 - pénalité de vie
+- q learning
