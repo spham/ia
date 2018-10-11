@@ -4,3 +4,5 @@
 - décision markovien
 - pénalité de vie
 - q learning
+
+http://ai.berkeley.edu/home.html
